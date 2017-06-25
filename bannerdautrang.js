@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='giabansaigonmystery.blogspot.com' target='_blank'><img src='http://hungthinhcorp.com.vn/media/ftp/cam-ranh-mystery.jpg' width='500px'/><br/>LH PKD Cam Ranh Mystery 0909355006</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='giabansaigonmystery.blogspot.com' target='_blank'><img src='http://hungthinhcorp.com.vn/land/attachment/image/saigonMia_pc.jpg' width='500px'/><br/>LH PKD Cam Ranh Mystery 0909355006</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
